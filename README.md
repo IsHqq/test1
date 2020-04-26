@@ -1,2 +1,2 @@
 # test1
-first try in Github
+record how to learn github 
