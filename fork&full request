@@ -1,0 +1,12 @@
+fork
+-copy others file to form a new repository
+-change in ur new rep ，not to change others file
+
+full request
+-张三fork了李四的代码 希望更新到原来的仓库 新建full request---comparing changes display-add description
+-李四看到full request--merge pull request进行合并
+
+
+开源项目贡献流程
+--新建 issue
+--fork and pull request
